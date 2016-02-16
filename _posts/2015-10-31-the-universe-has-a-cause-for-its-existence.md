@@ -13,9 +13,11 @@ Dr. Clay Jones
 Is this universe all that exists? Does something or someone exist outside of all space and time that we know? This has been a question of science, philosophy, and theology for millennia. Christianity believes that the universe began to exist. Conversely, naturalists argue that the universe’s existence can be explained strictly by the laws of nature. Naturalists argue theists have not been able to show that the universe needs a cause apart from itself to exist. However, philosophical arguments and scientific evidence suggest that the universe began to exist and has a cause.
 
 The kalam cosmological argument is a deductive argument which says the universe has a cause for its existence. Dr. William Lane Craig, Research Professor of Philosophy at Talbot School of Theology, is a proponent of the kalam argument. The argument states:
+
 1. Whatever begins to exist has a cause.
 2. The universe began to exist.
 3. Therefore, the universe has a cause.[^1]
+
 Since this argument is logically valid, the conclusion follows from its premises. We must therefore examine whether the first two premises are true, or at least more likely than their denials.
 
 ## Whatever Begins to Exist Has a Cause
