@@ -16,7 +16,7 @@ The kalam cosmological argument is a deductive argument which says the universe 
 
 1. Whatever begins to exist has a cause.
 2. The universe began to exist.
-3. Therefore, the universe has a cause.[^1]
+3. Therefore, the universe has a cause. [^1]
 
 Since this argument is logically valid, the conclusion follows from its premises. We must therefore examine whether the first two premises are true, or at least more likely than their denials.
 
