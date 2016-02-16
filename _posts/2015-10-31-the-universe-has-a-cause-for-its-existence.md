@@ -5,10 +5,12 @@ tags: cosmology, science
 category: Apologetics Research & Writing
 ---
 
-# The Universe Has a Cause for Its Existence
 Joel Fischer
+
 Apologetics Research & Writing MD1
+
 Dr. Clay Jones
+
 October 31, 2015
 
 ## Introduction
