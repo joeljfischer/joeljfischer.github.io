@@ -5,13 +5,9 @@ tags: cosmology, science
 category: Apologetics Research & Writing
 ---
 
-Joel Fischer
-
 Apologetics Research & Writing MD1
 
 Dr. Clay Jones
-
-October 31, 2015
 
 ## Introduction
 Is this universe all that exists? Does something or someone exist outside of all space and time that we know? This has been a question of science, philosophy, and theology for millennia. Christianity believes that the universe began to exist. Conversely, naturalists argue that the universe’s existence can be explained strictly by the laws of nature. Naturalists argue theists have not been able to show that the universe needs a cause apart from itself to exist. However, philosophical arguments and scientific evidence suggest that the universe began to exist and has a cause.
