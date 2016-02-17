@@ -12,13 +12,10 @@ twitter_username:
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
-permalink:          /post/:title # Post permalink
+permalink:          /post/:year/:month/:day/:title # Post permalink
 timezone:           US/Eastern # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Site Build
-markdown:           kramdown
-kramdown:
-    input:          GFM
 sass:
     style:          :compressed
 
