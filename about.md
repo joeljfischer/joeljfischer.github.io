@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Joel Fischer
 ---
 
 Hello! As you have probably guessed, my name is Joel Fischer. I am a M.A. student in Christian Apologetics at [Biola University](www.biola.edu). In 2008 I graduated from L'Anse Creuse High School North as Valedictorian, then graduated from Lawrence Technological University in 2012 Magna Cum Laude with Honors with a B.A. in Computer Science. Since then I have been working on a career in software engineering, primarily working in web and Apple development with a minor in design, so to speak. I have over 15 patents pending around software and the automotive industry.
