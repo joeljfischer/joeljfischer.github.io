@@ -5,6 +5,8 @@ tags: human origins, science, biology, book review
 category: Human Origins
 ---
 
+[Link to Amazon](http://amzn.com/0471252522)
+
 ## About the Book
 *The Dawn of Human Culture* by Richard G. Klein with Blake Edgar was published by John Wiley & Sons, New York, in 2002. Dr. Klein is Professor of Biology and Anthropology at Stanford. He received a Ph.D. at University of Chicago in 1966 and is a well-known paleoanthropologist.
 
@@ -32,7 +34,7 @@ The mechanisms of the favored evolutionary model is never explained in *The Dawn
 
 *The Dawn of Human Culture* is 14 years old, and some of the data by which the authors draw their conclusions is now outdated. For example, the authors state that modern humans appeared anatomically before they became behaviorally modern – this is a large part of the book. In the last decade and a half, however, scientists have pushed back the date of behavioral modernity to become roughly equivalent with the date for anatomical modernity. This outdates at least the last two chapters of the book covering these two topics. One is called “Body Before Behavior”, a theory that has been shown possibly false. Current readers should keep in mind that paleoanthropology is still a fast-moving field, and any book more than a decade old is bound to be at least somewhat outdated.
 
-### Recommendation
+## Recommendation
 I give *The Dawn of Human Culture* a slight recommendation.
 
 This book, with no citations and little detailed discussion of the data, is targeted at the layman. Anyone at a high-school level and above can read and comprehend this book; it is laid-out well, engaging, and enjoyable. However, the lack of citations and discussion of opposing views means that for the educated person, there is less here.

@@ -5,6 +5,8 @@ tags: human origins, science, biology, book review
 category: Human Origins
 ---
 
+[Link to Amazon](http://amzn.com/1886653119)
+
 ## About the Book
 *Who Was Adam?* was written by Dr. Fazale Rana with Dr. Hugh Ross and is published by Reasons to Believe Press. Dr. Rana, who wrote most of the book, has a PhD in chemistry with an emphasis in biochemistry from Ohio University. He was in R&D at Proctor & Gamble until he joined the Christian science-faith think-tank Reasons to Believe (RTB) in 1999; he is currently VP of Research & Apologetics. Dr. Ross is the President and Founder of RTB; he holds a PhD in astronomy from the University of Toronto. Both have written several books on science, faith, and Christian apologetics issues. The authors are well-qualified to write a book on human origins.
 
