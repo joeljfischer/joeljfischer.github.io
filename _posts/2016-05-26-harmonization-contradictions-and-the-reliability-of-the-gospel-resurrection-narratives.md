@@ -1,6 +1,6 @@
 ---
 title: Harmonization, Contradictions, and the Reliability of the Gospel Resurrection Narratives
-updated: 2016-05-26 19:00:00
+updated: 2016-05-26 17:00:00
 tags: resurrection, history, theology, book review
 category: Resurrection
 ---
