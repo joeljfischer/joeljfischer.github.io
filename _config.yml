@@ -8,7 +8,7 @@ google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 author_name:        "Joel Fischer"
 author_email:       joeljfischer@gmail.com
 author_gravatar:    dcc6ade9135e7fab00f51ddf153a1e6e # Gravatar md5 hash
-twitter_username:   
+twitter_username:   joelfisch
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
@@ -24,6 +24,7 @@ include:            [ "robots.txt" ]
 exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
 gems:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 compress_html:
     clippings:      all
