@@ -45,6 +45,7 @@ Reconciliation is only possible between two parties interested in reconciling. I
 
 ### Jesus and Eternal Punishment
 #### Matthew 25:31-46
+
 > 41 “Then he will say to those on his left, ‘Depart from me, you cursed, into the eternal fire prepared for the devil and his angels.’
 > 46 And these will go away into eternal punishment, but the righteous into eternal life.” 
 
@@ -55,6 +56,7 @@ This view would seem to remove eternal life as well! Parry responds, saying, “
 Parry’s interpretation of “eternal” here is not at all clear. For example, the same Greek word is used to describe God in Romans 16:26. Moreover, even if we assume Parry is correct in interpreting “eternal” as describing the next age, both would seem to extend the length of the next age. Parry responds again saying, “Eschatological punishment lacks any Christ-centered theological basis for being everlasting. So eschatological life and punishment are parallel in belonging to the age to come, but are *not* parallel in needing to endure for the entirety of the age to come.”[^33] This seems tenuous at best to me. Parry shifts the meaning of the word, but there remains a parallel. To stretch “eternal” into different meanings when used by the same author, in the same context, and in parallel, seems a strained exegesis.
 
 #### Luke 13:24-28[^34]
+
 > 24 “Strive to enter through the narrow door. For many, I tell you, will seek to enter and will not be able. 
 > 25 When once the master of the house has risen and shut the door, and you begin to stand outside and to knock at the door, saying, ‘Lord, open to us,’ then he will answer you, ‘I do not know where you come from.’ 
 > 26 Then you will begin to say, ‘We ate and drank in your presence, and you taught in our streets.’ 
@@ -65,21 +67,26 @@ According to the Universalist view, one must say and affirm that this door remai
 
 #### Was Paul a Universalist?
 **Colossians 1:19-20**
+
 > 19 For in him all the fullness of God was pleased to dwell, 
 > 20 and through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross.
 
 **Philippians 2:9-11**
+
 > 9 Therefore God has highly exalted him and bestowed on him the name that is above every name, 
 > 10 so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, 
 > 11 and every tongue confess that Jesus Christ is Lord, to the glory of God the Father. 
 
 **Romans 5:18**
+
 > 18 Therefore, as one trespass led to condemnation for all men, so one act of righteousness leads to justification and life for all men.
 
 **1 Corinthians 15:22**
+
 > 22 For as in Adam all die, so also in Christ shall all be made alive.
 
 **1 Timothy 2:3-4**
+
 > 3 This is good, and it is pleasing in the sight of God our Savior, 
 > 4 who desires all people to be saved and to come to the knowledge of the truth.
 
@@ -87,17 +94,21 @@ If these were our only texts pertaining to the salvation and punishment of man, 
 
 #### Paul Was Not a Universalist
 **Philippians 1:28**
+
 > 28 and not frightened in anything by your opponents. This is a clear sign to them of their destruction, but of your salvation, and that from God.
 
 **Philippians 3:18-20**
+
 > 18 For many, of whom I have often told you and now tell you even with tears, walk as enemies of the cross of Christ. 
 > 19 Their end is destruction, their god is their belly, and they glory in their shame, with minds set on earthly things. 
 > 20 But our citizenship is in heaven, and from it we await a Savior, the Lord Jesus Christ,
 
 **Romans 6:23**
+
 > 23 For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord. 
 
 **2 Thessalonians 1:6-9**
+
 > 6 since indeed God considers it just to repay with affliction those who afflict you, 
 > 7 and to grant relief to you who are afflicted as well as to us, when the Lord Jesus is revealed from heaven with his mighty angels 
 > 8 in flaming fire, inflicting vengeance on those who do not know God and on those who do not obey the gospel of our Lord Jesus. 
