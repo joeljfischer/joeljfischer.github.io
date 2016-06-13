@@ -44,7 +44,7 @@ God does not force people into hell. On a libertarian view of freedom[^25] (whic
 Reconciliation is only possible between two parties interested in reconciling. If the offensive party reaches out to the other for forgiveness and the other refuses it, there can be no reconciliation. Likewise, if the offended party reaches out to the other, offering forgiveness and the other refuses to accept it, there may be forgiveness, but not reconciliation. Our relationship to God is the same way. On a libertarian view of freedom, God has reached out to us with forgiveness and grace, offering us a way to salvation. It is up to us to accept that offer and form the other side of the bond. Only then can we be reconciled with God.
 
 ### Jesus and Eternal Punishment
-#### Matthew 25:31-46
+**Matthew 25:31-46**
 
 > 41 “Then he will say to those on his left, ‘Depart from me, you cursed, into the eternal fire prepared for the devil and his angels.’
 > 46 And these will go away into eternal punishment, but the righteous into eternal life.” 
@@ -55,7 +55,7 @@ This view would seem to remove eternal life as well! Parry responds, saying, “
 
 Parry’s interpretation of “eternal” here is not at all clear. For example, the same Greek word is used to describe God in Romans 16:26. Moreover, even if we assume Parry is correct in interpreting “eternal” as describing the next age, both would seem to extend the length of the next age. Parry responds again saying, “Eschatological punishment lacks any Christ-centered theological basis for being everlasting. So eschatological life and punishment are parallel in belonging to the age to come, but are *not* parallel in needing to endure for the entirety of the age to come.”[^33] This seems tenuous at best to me. Parry shifts the meaning of the word, but there remains a parallel. To stretch “eternal” into different meanings when used by the same author, in the same context, and in parallel, seems a strained exegesis.
 
-#### Luke 13:24-28[^34]
+**Luke 13:24-28**[^34]
 
 > 24 “Strive to enter through the narrow door. For many, I tell you, will seek to enter and will not be able. 
 > 25 When once the master of the house has risen and shut the door, and you begin to stand outside and to knock at the door, saying, ‘Lord, open to us,’ then he will answer you, ‘I do not know where you come from.’ 
