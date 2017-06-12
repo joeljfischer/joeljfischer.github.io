@@ -1,3 +1,10 @@
+---
+title: The Problem of Audience Precis
+updated: 2017-04-06 08:41:00
+tags: history, theology, bible, jesus
+category: Theology
+---
+
 ### Précis - Dale C. Allison – The Problem of Audience
 
 #### Summary
