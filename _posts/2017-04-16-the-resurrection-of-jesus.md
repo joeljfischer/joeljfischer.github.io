@@ -5,8 +5,6 @@ tags: history, theology, jesus, resurrection
 category: History
 ---
 
-# The Resurrection of Jesus
-
 ## Introduction
 The Resurrection of Jesus has been considered, since the very beginning of the Christian faith, to be the most important historical event in the history of mankind and the foundation of Christianity (1 Corinthians 15:14-19). The question of the truth-claim that God raised Jesus from the dead has bred arguments and counter-arguments throughout the millennia. Skeptics ancient and modern have declared this resurrection implausible, improbable, or impossible. However, despite all modern skepticism, the claim that God raised Jesus from the dead has never been more substantiated.
 

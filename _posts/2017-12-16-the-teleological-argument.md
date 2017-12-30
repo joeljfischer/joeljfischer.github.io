@@ -5,8 +5,6 @@ tags: science, teleology
 category: Science
 ---
 
-# The Teleological Argument for God’s Existence
-
 ## Introduction
 The teleological argument, that is, the argument from design to the existence of God, has been made by theists for many thousands of years. It used to be that the universe and everything within it was a clear sign that something bigger and more powerful than ourselves had created and designed it and us. The pagans identified the gods with aspects of nature, while the Jewish monotheists recognized one supreme and immaterial being as Lord of all creation. Today, though, it has been argued that we are _enlightened_, so we no longer need such petty superstitions. It has been argued by naturalists that all of nature is purposeless: from nothing and for nothing. This anti-design case has persuaded many, but I will argue that we should go back to our heritage and make a new case for design by applying the modern scientific method to the ancient Jewish concept of God and the most recent data we have about our universe.
  

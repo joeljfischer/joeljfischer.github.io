@@ -5,8 +5,6 @@ tags: theology, law, gospel, old testament, new testament
 category: Theology
 ---
 
-# Old Testament Law and New Testament Gospel
-
 ## Introduction
 When considering the relationship between the Old Testament Mosaic Law and the New Testament Christian, there are a wide span of views. The primary difference in these views is whether or not the Mosaic Law applies to the believer at all. Some say that the law of Moses’ application to today’s believer has passed, while others say it still applies. Both sets of Christians follow Christ, and both seek faithfulness to the Word of God. However, to be fully faithful to scripture, we must agree with Paul that the reign of the Mosaic law has passed and a new law, the law of Christ, has been inaugurated.
 
